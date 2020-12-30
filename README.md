@@ -8,5 +8,6 @@ This is a demo project to showcase the Git Skills.
 Purpose is to understad the work flow of Git.
 
 ## Deployment
+Adding some comments.
 
 ## How to contribute.
