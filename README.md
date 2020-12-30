@@ -5,6 +5,7 @@ This is a simple web project for demo.
 This is a demo project to showcase the Git Skills.
 
 ## Purpose
+Purpose is to understad the work flow of Git.
 
 ## Deployment
 
